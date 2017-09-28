@@ -30,8 +30,12 @@
           <option name="url" value="git@github.com:Cowboy-Lee/tensorflow-tutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:Cowboy-Lee/pachi-py.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\PythonWorkspace" />
+    <option name="cloneParentDir" value="D:\PythonWorkspace\openAI" />
   </component>
 </application>
