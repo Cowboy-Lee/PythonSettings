@@ -34,8 +34,12 @@
           <option name="url" value="git@github.com:Cowboy-Lee/pachi-py.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/TF-boy/Miscellaneous.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\PythonWorkspace\openAI" />
+    <option name="cloneParentDir" value="D:\PythonWorkspace\Miscellaneous" />
   </component>
 </application>
